@@ -17,10 +17,11 @@
 
 
 ## Contact with me!
- Email: erendevelop@gmail.com
+[<img align="left" alt="Flutter" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
  
 
 [route]: https://github.com/ernkedy/tum-kodlarim
 [flutter_route]: https://github.com/ernkedy/itu_mtal_mesajlasma
 [vscode_route]: https://code.visualstudio.com/
 [androidstudio_route]: https://developer.android.com/studio
+[mail]: erendevelop@gmail.com
