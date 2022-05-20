@@ -10,6 +10,7 @@
 
 ### Languages and Tools
 
+[<img align="left" alt="PyCharm" width="26px" src="./img/pycharm.png" style="padding-right:10px;"/>][pycharm_route]
 [<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.png" style="padding-right:10px;"/>][vscode_route]
 [<img align="left" alt="Android Studio" width="26px" src="./img/android-studio.png" style="padding-right:10px;"/>][androidstudio_route]
 [<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;"/>][route]
@@ -30,3 +31,4 @@
 [androidstudio_route]: https://developer.android.com/studio
 [mail]: erendevelop@gmail.com
 [instagram]: https://www.instagram.com/erenmturhan/
+[pycharm_route]: https://www.jetbrains.com/pycharm/
