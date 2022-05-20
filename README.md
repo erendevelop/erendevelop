@@ -17,10 +17,11 @@
 
 
 ## Contact with me!
+<img align="left" alt="Discord" width="26px" src="./img/discord.png"/>: ern#7972
+<br>
+
 [<img align="left" alt="Mail" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;"/>][instagram]
-<br>
-<img align="left" alt="Discord" width="26px" src="./img/discord.png"/>: ern#7972
 
 [route]: https://github.com/ernkedy/tum-kodlarim
 [flutter_route]: https://github.com/ernkedy/itu_mtal_mesajlasma
