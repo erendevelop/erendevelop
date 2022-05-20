@@ -7,7 +7,8 @@
     To work at a company named Ethica Yazılım.
 - 👀 Random info about me: I love watching anime!
 ### Languages and Tools
-[<img align="left" alt="Visual Studio Code" width="26px" src="./img/flutter.png" style="padding-right:10px;"/>][flutter_route]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.png" style="padding-right:10px;"/>][vscode_route]
+[<img align="left" alt="Android Studio" width="26px" src="./img/android-studio.png" style="padding-right:10px;"/>][androidstudio_route]
 [<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;"/>][route]
 [<img align="left" alt="Dart" width="26px" src="./img/dart.png" style="padding-right:10px;"/>][route]
 [<img align="left" alt="Rust" width="26px" src="./img/rust.png" style="padding-right:10px;"/>][route]
