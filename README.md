@@ -7,7 +7,7 @@
    - To work at a company named Ethica Yazılım.
 - 👀 Random info about me: I love watching anime!
 ### Languages That I Have Knowledge
-[<img align="left" alt="Gatsby" width="26px" src="https://en.wikipedia.org/wiki/File:Python-logo-notext.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="../img/python.png" style="padding-right:10px;" />]
 
 
 ## Contact with me!
