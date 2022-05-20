@@ -17,11 +17,13 @@
 
 
 ## Contact with me!
-[<img align="left" alt="Flutter" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
- 
+[<img align="left" alt="Mail" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
+[<img align="left" alt="Instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;"/>][instagram]
+<img align="left" alt="Discord" width="26px" src="./img/mail.png" style="padding-right:10px" />: ern#7972
 
 [route]: https://github.com/ernkedy/tum-kodlarim
 [flutter_route]: https://github.com/ernkedy/itu_mtal_mesajlasma
 [vscode_route]: https://code.visualstudio.com/
 [androidstudio_route]: https://developer.android.com/studio
 [mail]: erendevelop@gmail.com
+[instagram]: https://www.instagram.com/erenmturhan/
