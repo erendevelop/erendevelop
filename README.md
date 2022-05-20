@@ -4,8 +4,8 @@
 
 - ✔ I'm currently mastering on Flutter extension.
 - 🎯 Goals for future:<br>
-    To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br><br>
-    To work at a company named Ethica Yazılım.
+    - To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br>
+    - To work at a company named Ethica Yazılım.
 - 👀 Random info about me: I love watching anime!
 
 ### Languages and Tools
