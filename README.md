@@ -26,7 +26,7 @@
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;"/>][instagram]
 
 ## Support me! 
-[<img align="left" alt="Instagram" width="100px" src="./img/buy-me-a-coffee.png" style="padding-right:10px;"/>][support]
+[<img align="left" alt="Instagram" width="300px" src="./img/buy-me-a-coffee.png" style="padding-right:10px;"/>][support]
 
 [support]: https://www.buymeacoffee.com/erendevelop
 [python_route]: https://www.w3schools.com/python/
