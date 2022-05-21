@@ -1,11 +1,11 @@
-## Helloo, I am ern!
+## 👋 Helloo, I am ern!
 
-### I'm a junior mobile app developer and a freshman in high-school.
+### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in high-school.
 
 - ✔ I'm currently mastering on Flutter extension.
 - 🎯 Goals for future:<br>
-    - To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br>
-    - To work at a company named Ethica Yazılım.
+    📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br>
+    📌 To work at a company named Ethica Yazılım.
 - 👀 Random info about me: I am sleepy almost all the time.
 
 ## Languages and Tools
