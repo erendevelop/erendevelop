@@ -25,7 +25,10 @@
 [<img align="left" alt="Mail" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;"/>][instagram]
 
-[route]: https://github.com/ernkedy/tum-kodlarim
+[python_route]: https://www.w3schools.com/python/
+[dart_route]: https://www.tutorialspoint.com/dart_programming/index.htm
+[flutter_route]: https://x-wei.github.io/flutter_catalog/#/
+[rust_route]: https://www.tutorialspoint.com/rust/index.htm
 [flutter_route]: https://github.com/ernkedy/itu_mtal_mesajlasma
 [vscode_route]: https://code.visualstudio.com/
 [androidstudio_route]: https://developer.android.com/studio
