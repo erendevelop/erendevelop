@@ -8,7 +8,7 @@
     - To work at a company named Ethica Yazılım.
 - 👀 Random info about me: I am sleepy almost all the time.
 
-### Languages and Tools
+## Languages and Tools
 
 [<img align="left" alt="PyCharm" width="30px" src="./img/pycharm.png" style="padding-right:10px;"/>][pycharm_route]
 [<img align="left" alt="Visual Studio Code" width="34px" src="./img/vscode.png" style="padding-right:10px;"/>][vscode_route]
