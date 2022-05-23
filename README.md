@@ -18,7 +18,7 @@
 [<img align="left" alt="Python" width="30px" src="./ernkedy reposu/img/python.png" style="padding-right:10px;"/>][python_route]
 [<img align="left" alt="Dart" width="30px" src="./ernkedy reposu/img/dart.png" style="padding-right:10px;"/>][dart_route]
 [<img align="left" alt="Rust" width="30px" src="./ernkedy reposu/img/rust.png" style="padding-right:10px;"/>][rust_route]
-[<img align="left" alt="Flutter" width="30px" src="./img/flutter.png" style="padding-right:10px;"/>][flutter_route]
+[<img align="left" alt="Flutter" width="30px" src="./ernkedy reposu/img/flutter.png" style="padding-right:10px;"/>][flutter_route]
 <br>
 
 
