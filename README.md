@@ -19,6 +19,7 @@
 [<img align="left" alt="Dart" width="30px" src="./ernkedy reposu/img/dart.png" style="padding-right:10px;"/>][dart_route]
 [<img align="left" alt="Rust" width="30px" src="./ernkedy reposu/img/rust.png" style="padding-right:10px;"/>][rust_route]
 [<img align="left" alt="Flutter" width="30px" src="./ernkedy reposu/img/flutter.png" style="padding-right:10px;"/>][flutter_route]
+[<img align="left" alt="Firebase" width="30px" src="./ernkedy reposu/img/firebase.png" style="padding-right:10px;"/>][firebase_route]
 <br>
 
 
@@ -42,3 +43,4 @@
 [mail]: erendevelop@gmail.com
 [instagram]: https://www.instagram.com/erenmturhan/
 [pycharm_route]: https://www.jetbrains.com/pycharm/
+[firebase_route]: https://console.firebase.google.com/
