@@ -26,11 +26,11 @@
 ## Contact with me!
 
 [<img align="left" alt="Mail" width="26px" src="./ernkedy reposu/img/mail.png" style="padding-right:10px;"/>][mail]
-[<img align="left" alt="Instagram" width="26px" src="./ernkedy reposu/img/instagram.png" style="padding-right:10px;"/>][instagram]
+[<img align="left" alt="Instagram" width="24px" src="./ernkedy reposu/img/instagram.png" style="padding-right:10px;"/>][instagram]
 <br>
 
 ## Support me! 
-[<img align="left" alt="Instagram" width="26px" src="./ernkedy reposu/img/buy-me-a-coffee.png" style="padding-right:10px;"/>][support]
+[<img align="left" alt="Buy Me a Coffee" width="160px" src="./ernkedy reposu/img/buy-me-a-coffee.png" style="padding-right:10px;"/>][support]
 
 [support]: https://www.buymeacoffee.com/erendevelop
 [python_route]: https://www.w3schools.com/python/
