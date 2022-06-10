@@ -26,7 +26,7 @@
 ## Contact with me!
 
 [<img align="left" alt="Mail" width="26px" src="./ernkedy reposu/img/mail.png" style="padding-right:10px;"/>][mail]
-[<img align="left" alt="Instagram" width="24px" src="./ernkedy reposu/img/instagram.png" style="padding-right:10px;"/>][instagram]
+[<img align="left" alt="Instagram" width="23px" src="./ernkedy reposu/img/instagram.png" style="padding-right:10px;"/>][instagram]
 <br>
 
 ## Support me! 
