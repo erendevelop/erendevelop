@@ -31,8 +31,6 @@
 <br>
 <br>
 <br>
-<br>
-
 
 ## Contact with me!
 [<img align="left" alt="Mail" width="26px" src="./ernkedy reposu/img/mail.png" style="padding-right:10px;"/>][mail]
