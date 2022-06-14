@@ -23,7 +23,8 @@
 <br>
 
 ## Certificates
-[<img align="left" alt="Python Certificate" width="200px" src="./ernkedy reposu/img/py-certificate-2022.jpg" style="padding-right:10px;"/>]
+[<img align="left" alt="Python Certificate" width="300px" src="./ernkedy reposu/img/py-certificate-2022.jpg" style="padding-right:10px;"/>]
+<br>
 
 
 ## Contact with me!
