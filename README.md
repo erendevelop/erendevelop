@@ -24,6 +24,7 @@
 
 ## Certificates
 <img align="left" alt="Python Certificate" width="300px" src="./ernkedy reposu/img/py-certificate-2022.jpg" style="padding-right:10px;"/>
+<br>
 
 ## Contact with me!
 [<img align="left" alt="Mail" width="26px" src="./ernkedy reposu/img/mail.png" style="padding-right:10px;"/>][mail]
