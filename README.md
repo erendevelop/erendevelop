@@ -7,7 +7,7 @@
     <ul> 
     📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br> 
     📌 To work at a company named Ethica Software.<br>
-    📌 Starting to earning money from app developement in this summer.
+    📌 To start earning money from app developement in this summer.
     </ul>
 - 👀 Random info about me: I am sleepy almost all the time.
 
