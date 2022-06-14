@@ -22,6 +22,9 @@
 [<img align="left" alt="Firebase" width="20px" src="./ernkedy reposu/img/firebase.png" style="padding-right:10px;"/>][firebase_route]
 <br>
 
+## Certificates
+[<img align="left" alt="Firebase" width="20px" src="./ernkedy reposu/img/EREN MUHAMMEDTURHAN-2021-2022 PYTHON-certificate.jpg" style="padding-right:10px;"/>]
+
 
 ## Contact with me!
 
