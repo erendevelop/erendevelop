@@ -9,7 +9,7 @@
     📌 To work at a company named Ethica Software.<br>
     📌 To start earning money from app developement in this summer.
     </ul>
-- 👀 Random info about me: I am sleepy almost all the time.
+- 👀 Random info about me: shy little frog
 
 ## Skills & Tools
 
