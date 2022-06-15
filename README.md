@@ -3,7 +3,7 @@
 ### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in high-school.
 
 - ✔ I'm currently mastering on Flutter extension.
-- 🎯 Goals for future:<br>
+- 🎯 Goals for the future:<br>
     <ul> 
     📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br> 
     📌 To work at a company named Ethica Software.<br>
