@@ -59,4 +59,4 @@
 [mail]: erendevelop@gmail.com
 [instagram]: https://www.instagram.com/erenmturhan/
 [pycharm_route]: https://www.jetbrains.com/pycharm/
-[firebase_route]: https://console.firebase.google.com/
+[firebase_route]: https://firebase.google.com/
