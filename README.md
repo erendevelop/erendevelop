@@ -21,10 +21,10 @@
 [<img align="left" alt="Flutter" width="30px" src="./ernkedy reposu/img/flutter.png" style="padding-right:10px;"/>][flutter_route]
 [<img align="left" alt="Firebase" width="20px" src="./ernkedy reposu/img/firebase.png" style="padding-right:10px;"/>][firebase_route]
 <br>
+<br>
 
 ## Certificates
 <img align="left" alt="Python Certificate" width="400px" src="./ernkedy reposu/img/py-certificate-2022.jpg" style="padding-right:10px;"/>
-<br>
 <br>
 <br>
 <br>
