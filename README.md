@@ -1,6 +1,6 @@
 ## 👋 Helloo, I am ern!
 
-### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in high-school.
+### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in high school.
 
 - ✔ I'm currently mastering on Flutter extension.
 - 🎯 Goals for the future:<br>
