@@ -1,12 +1,11 @@
 ## 👋 Helloo, I am ern!
 
-### 👨🏻‍🎓 I'm a junior mobile app developer and a sophomore in high school.
+### 👨🏻‍🎓 I'm a medium-level mobile app developer and a sophomore in high school.
 
 - ✔ I'm currently mastering on Flutter extension.
 - 🎯 Goals for future:<br>
     <ul> 
     📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br> 
-    📌 To start earning money from app developement in 2022 summer.
     </ul>
 - 👀 Random info about me: shy little frog
 
