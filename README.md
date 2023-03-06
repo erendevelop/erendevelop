@@ -1,4 +1,4 @@
-## 👋 Helloo, I am ern!
+## 👋 Hello, I am Eren!
 
 ### 👨🏻‍🎓 I'm a medium-level mobile app developer and a sophomore in high school.
 
