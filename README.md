@@ -7,7 +7,6 @@
     <ul> 
     📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br> 
     </ul>
-- 👀 Random info about me: shy little frog
 
 ## Skills & Tools
 
