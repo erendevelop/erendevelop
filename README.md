@@ -2,7 +2,7 @@
 
 ### 👨🏻‍🎓 I'm a medium-level mobile app developer and a sophomore in high school.
 
-- ✔ I'm currently mastering on Flutter extension.
+- ✔ I'm currently mastering on Flutter extension and working with OMIX company as an intern.
 - 🎯 Goals for future:<br>
     <ul> 
     📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br> 
