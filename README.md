@@ -1,4 +1,4 @@
-## 👋 Hello, I am Eren!
+## 👋 Hello, I am Eren
 
 ### 👨🏻‍🎓 I'm a medium-level mobile app developer and a sophomore in high school.
 
@@ -37,7 +37,7 @@
 <br>
 
 
-## Contact with me!
+## Contact me
 [<img align="left" alt="Mail" width="26px" src="./ernkedy reposu/img/mail.png" style="padding-right:10px;"/>][mail]
 [<img align="left" alt="Instagram" width="23px" src="./ernkedy reposu/img/instagram.png" style="padding-right:10px;"/>][instagram]
 <br>
