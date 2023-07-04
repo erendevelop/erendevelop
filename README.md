@@ -17,8 +17,8 @@
 [<img align="left" alt="Dart" width="24px" src="./ernkedy reposu/img/dart.png" style="padding-right:10px;"/>][dart_route]
 [<img align="left" alt="Flutter" width="24px" src="./ernkedy reposu/img/flutter.png" style="padding-right:10px;"/>][flutter_route]
 [<img align="left" alt="Firebase" width="16px" src="./ernkedy reposu/img/firebase.png" style="padding-right:10px;"/>][firebase_route]
-[<img align="left" alt="Java" width="22px" src="./ernkedy reposu/img/java.png" style="padding-right:10px;"/>][java_route]
-[<img align="left" alt="MySQL" width="24px" src="./ernkedy reposu/img/sql_logo.png" style="padding-right:10px;"/>][mysql_route]
+[<img align="left" alt="Java" width="20px" src="./ernkedy reposu/img/java.png" style="padding-right:10px;"/>][java_route]
+[<img align="left" alt="MySQL" width="22px" src="./ernkedy reposu/img/sql_logo.png" style="padding-right:10px;"/>][mysql_route]
 <br>
 <br>
 
