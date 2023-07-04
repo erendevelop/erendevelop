@@ -17,6 +17,7 @@
 [<img align="left" alt="Dart" width="24px" src="./ernkedy reposu/img/dart.png" style="padding-right:10px;"/>][dart_route]
 [<img align="left" alt="Flutter" width="24px" src="./ernkedy reposu/img/flutter.png" style="padding-right:10px;"/>][flutter_route]
 [<img align="left" alt="Firebase" width="16px" src="./ernkedy reposu/img/firebase.png" style="padding-right:10px;"/>][firebase_route]
+[<img align="left" alt="Java" width="16px" src="./ernkedy reposu/img/java.png" style="padding-right:10px;"/>][java_route]
 <br>
 <br>
 
@@ -47,6 +48,7 @@
 [flutter_route]: https://x-wei.github.io/flutter_catalog/#/
 [rust_route]: https://www.tutorialspoint.com/rust/index.htm
 [flutter_route]: https://github.com/ernkedy/itu_mtal_mesajlasma
+[java_route]: https://www.java.com/tr/
 [vscode_route]: https://code.visualstudio.com/
 [androidstudio_route]: https://developer.android.com/studio
 [mail]: erendevelop@gmail.com
