@@ -19,6 +19,7 @@
 [<img align="left" alt="Firebase" width="16px" src="./ernkedy reposu/img/firebase.png" style="padding-right:10px;"/>][firebase_route]
 [<img align="left" alt="Java" width="24px" src="./ernkedy reposu/img/java.png" style="padding-right:10px;"/>][java_route]
 [<img align="left" alt="MySQL" width="24px" src="./ernkedy reposu/img/sql_logo.png" style="padding-right:10px;"/>][mysql_route]
+[<img align="left" alt="C#" width="24px" src="./ernkedy reposu/img/c_sharp.png" style="padding-right:10px;"/>][c_sharp]
 <br>
 <br>
 
@@ -57,3 +58,4 @@
 [pycharm_route]: https://www.jetbrains.com/pycharm/
 [firebase_route]: https://firebase.google.com/
 [mysql_route]: https://www.mysql.com/
+[c_sharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
