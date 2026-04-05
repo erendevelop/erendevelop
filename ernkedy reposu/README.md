@@ -1,4 +1,4 @@
-## 👋 Helloo, I am ern!
+## 👋 Helloo, I am eren!
 
 ### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in high-school.
 
@@ -12,7 +12,6 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="PyCharm" width="30px" src="./img/pycharm.png" style="padding-right:10px;"/>][pycharm_route]
 [<img align="left" alt="Visual Studio Code" width="34px" src="./img/vscode.png" style="padding-right:10px;"/>][vscode_route]
 [<img align="left" alt="Android Studio" width="30px" src="./img/android-studio.png" style="padding-right:10px;"/>][androidstudio_route]
 [<img align="left" alt="Python" width="30px" src="./img/python.png" style="padding-right:10px;"/>][python_route]
@@ -25,11 +24,10 @@
 ## Contact with me!
 
 [<img align="left" alt="Mail" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
-[<img align="left" alt="Instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;"/>][instagram]
 <br>
 
 ## Support me! 
-[<img align="left" alt="Instagram" width="170px" src="./img/buy-me-a-coffee.png" style="padding-right:10px;"/>][support]
+[<img align="left" alt="Buy Me a Coffee" width="170px" src="./img/buy-me-a-coffee.png" style="padding-right:10px;"/>][support]
 
 [support]: https://www.buymeacoffee.com/erendevelop
 [python_route]: https://www.w3schools.com/python/
