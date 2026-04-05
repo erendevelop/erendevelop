@@ -1,12 +1,11 @@
-## 👋 Helloo, I am eren!
+## 👋 Hello, I am eren!
 
-### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in high-school.
+### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in Istanbul Technical University.
 
 - ✔ I'm currently mastering on Flutter extension.
 - 🎯 Goals for future:<br>
     <ul> 
-    📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br> 
-    📌 To work at a company named Ethica Yazılım.
+    📌 To be an advanced freelance mobile app developer so that I can earn my own livings.<br> 
     </ul>
 - 👀 Random info about me: I am sleepy almost all the time.
 
@@ -21,7 +20,7 @@
 <br>
 
 
-## Contact with me!
+## Contact me!
 
 [<img align="left" alt="Mail" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
 <br>
