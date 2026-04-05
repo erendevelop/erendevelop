@@ -1,61 +1,41 @@
-## 👋 Hello, I am Eren
+## 👋 Hello, I am eren!
 
-### 👨🏻‍🎓 I'm a medium-level mobile app developer and a sophomore in high school.
+### 👨🏻‍🎓 I'm a junior mobile app developer and a freshman in Istanbul Technical University.
 
-- ✔ I'm currently mastering on Flutter extension and working in OMIX company as an intern.
+- ✔ I'm currently mastering on Flutter extension.
 - 🎯 Goals for future:<br>
     <ul> 
-    📌 To be an advanced mobile app developer (with being able to develop in Kotlin and Swift).<br> 
+    📌 To be an advanced freelance mobile app developer so that I can earn my own livings.<br> 
     </ul>
+- 👀 Random info about me: I am sleepy almost all the time.
 
-## Skills & Tools
+## Languages and Tools
 
-[<img align="left" alt="PyCharm" width="40px" src="./ernkedy reposu/img/pycharm.png" style="padding-right:10px;"/>][pycharm_route]
-[<img align="left" alt="Visual Studio Code" width="40px" src="./ernkedy reposu/img/vscode.png" style="padding-right:10px;"/>][vscode_route]
-[<img align="left" alt="Android Studio" width="38px" src="./ernkedy reposu/img/android-studio.png" style="padding-right:10px;"/>][androidstudio_route]
-[<img align="left" alt="Python" width="40px" src="./ernkedy reposu/img/python.png" style="padding-right:10px;"/>][python_route]
-[<img align="left" alt="Dart" width="40px" src="./ernkedy reposu/img/dart.png" style="padding-right:10px;"/>][dart_route]
-[<img align="left" alt="Flutter" width="40px" src="./ernkedy reposu/img/flutter.png" style="padding-right:10px;"/>][flutter_route]
-[<img align="left" alt="Firebase" width="32px" src="./ernkedy reposu/img/firebase.png" style="padding-right:10px;"/>][firebase_route]
-[<img align="left" alt="Java" width="40px" src="./ernkedy reposu/img/java.png" style="padding-right:10px;"/>][java_route]
-[<img align="left" alt="MySQL" width="40px" src="./ernkedy reposu/img/sql_logo.png" style="padding-right:10px;"/>][mysql_route]
-[<img align="left" alt="C#" width="40px" src="./ernkedy reposu/img/c_sharp.png" style="padding-right:10px;"/>][c_sharp]
-<br>
-<br>
-
-## Certificates
-<img align="left" alt="Python Certificate" width="400px" src="./ernkedy reposu/img/py-certificate-2022.jpg" style="padding-right:10px;"/>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[<img align="left" alt="Visual Studio Code" width="34px" src="./img/vscode.png" style="padding-right:10px;"/>][vscode_route]
+[<img align="left" alt="Android Studio" width="30px" src="./img/android-studio.png" style="padding-right:10px;"/>][androidstudio_route]
+[<img align="left" alt="Python" width="30px" src="./img/python.png" style="padding-right:10px;"/>][python_route]
+[<img align="left" alt="Dart" width="30px" src="./img/dart.png" style="padding-right:10px;"/>][dart_route]
+[<img align="left" alt="Rust" width="30px" src="./img/rust.png" style="padding-right:10px;"/>][rust_route]
+[<img align="left" alt="Flutter" width="30px" src="./img/flutter.png" style="padding-right:10px;"/>][flutter_route]
 <br>
 
 
-## Contact me
-[<img align="left" alt="Mail" width="26px" src="./ernkedy reposu/img/mail.png" style="padding-right:10px;"/>][mail]
-[<img align="left" alt="Instagram" width="23px" src="./ernkedy reposu/img/instagram.png" style="padding-right:10px;"/>][instagram]
+## Contact me!
+
+[<img align="left" alt="Mail" width="26px" src="./img/mail.png" style="padding-right:10px;"/>][mail]
 <br>
 
+## Support me! 
+[<img align="left" alt="Buy Me a Coffee" width="170px" src="./img/buy-me-a-coffee.png" style="padding-right:10px;"/>][support]
+
+[support]: https://www.buymeacoffee.com/erendevelop
 [python_route]: https://www.w3schools.com/python/
 [dart_route]: https://www.tutorialspoint.com/dart_programming/index.htm
 [flutter_route]: https://x-wei.github.io/flutter_catalog/#/
 [rust_route]: https://www.tutorialspoint.com/rust/index.htm
 [flutter_route]: https://github.com/ernkedy/itu_mtal_mesajlasma
-[java_route]: https://www.java.com/tr/
 [vscode_route]: https://code.visualstudio.com/
 [androidstudio_route]: https://developer.android.com/studio
 [mail]: erendevelop@gmail.com
 [instagram]: https://www.instagram.com/erenmturhan/
 [pycharm_route]: https://www.jetbrains.com/pycharm/
-[firebase_route]: https://firebase.google.com/
-[mysql_route]: https://www.mysql.com/
-[c_sharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
